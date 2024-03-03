@@ -19,7 +19,7 @@ lista = [4, 10, 17, 19, 29 ]
 numero = random.choice(lista)
 print(f'Numero escohido: {numero}')
 numero = random.sample(lista,3)
-print(f'Numerps escolhidos : {numero}')
+print(f'Numeros escolhidos : {numero}')
 
 #Embaralhar
 print(f'Exibir lista original: {lista}')
